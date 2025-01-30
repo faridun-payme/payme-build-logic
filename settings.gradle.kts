@@ -1,5 +1,4 @@
 rootProject.name = "payme-android"
-enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 dependencyResolutionManagement {
 
