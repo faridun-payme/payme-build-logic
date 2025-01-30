@@ -10,10 +10,4 @@ dependencyResolutionManagement {
 
         maven { url = uri("https://jitpack.io") }
     }
-
-    versionCatalogs {
-        create("libs") {
-          // TODO  from(files("/gradle/libs.versions.toml"))
-        }
-    }
 }
