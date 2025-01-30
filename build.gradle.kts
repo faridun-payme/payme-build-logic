@@ -2,9 +2,6 @@ plugins {
     `kotlin-dsl`
 }
 
-group = "uz.payme"
-version = "1.0.0"
-
 gradlePlugin {
     plugins {
         create("samplePlugin") {
