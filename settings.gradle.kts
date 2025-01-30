@@ -17,8 +17,3 @@ dependencyResolutionManagement {
         }
     }
 }
-
-include(
-    ":convention",
-    ":obfuscation"
-)
